@@ -1,2 +1,2 @@
-# xstate-react-query
+# vanilla-state-machine
 Created with CodeSandbox
